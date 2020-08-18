@@ -1,0 +1,3 @@
+webservice-conclave works in Linux env, tested. It is best, because host is Spring boot web service.
+standalone works in Linux env, tested. Not very good, because it is only a raw socket server/client.
+corda-conclave does not work because of dependency conclift between Corda and Conclave
